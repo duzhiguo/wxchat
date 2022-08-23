@@ -12,27 +12,27 @@ import time
 
 # today = datetime.now()
 # # start_date = os.environ['START_DATE']
-# city = os.environ['CITY']
-# # birthday = os.environ['BIRTHDAY']
-
-# app_id = os.environ["APP_ID"]
-# app_secret = os.environ["APP_SECRET"]
-
-# user_id = os.environ["USER_ID"]
-# template_id = os.environ["TEMPLATE_ID"]
+city = os.environ['CITY']
 # birthday = os.environ['BIRTHDAY']
+
+app_id = os.environ["APP_ID"]
+app_secret = os.environ["APP_SECRET"]
+
+user_id = os.environ["USER_ID"]
+template_id = os.environ["TEMPLATE_ID"]
+birthday = os.environ['BIRTHDAY']
 
 # today = datetime.now()
 # start_date = os.environ['START_DATE']
-city = "郑州"
-# birthday = os.environ['BIRTHDAY']
+# city = "郑州"
+# # birthday = os.environ['BIRTHDAY']
 
-app_id = "wx2bbbf4a28d313c53"
-app_secret = "7c88339aedf6ee1d88096504e5f77db2"
+# app_id = "wx2bbbf4a28d313c53"
+# app_secret = "7c88339aedf6ee1d88096504e5f77db2"
 
-user_id = "oV51e5-x_wJ5qRFLJx8tMGYJNv_g"
-template_id = "JL12uEZWl7ySB85zJQ9l4p3BzzxP0mE33dmuVWzVdyk"
-birthday = "10-15"
+# user_id = "oV51e5-x_wJ5qRFLJx8tMGYJNv_g"
+# template_id = "JL12uEZWl7ySB85zJQ9l4p3BzzxP0mE33dmuVWzVdyk"
+# birthday = "10-15"
 
 
 
